@@ -21,7 +21,7 @@ This project implements a parallel solution for the Top K Shortest Path Problem 
 2. Install OpenMP (typically included with modern C++ compilers)
 3. Clone the repository:
    ```
-   git clone https://github.com/your-username/top-k-shortest-path.git
+   git clone https://github.com/Asquarer02/Top-K-Shortest-Path-Problem-with-MPI-and-OpenMP.git
    cd top-k-shortest-path
    ```
 4. Compile the project:
@@ -52,4 +52,4 @@ Contributions to improve the Top K Shortest Path Solver are welcome. Please feel
 ## Contact
 Ahmed Abd-ur-Rahman - i210404@nu.edu.pk
 
-Project Link: [https://github.com/your-username/top-k-shortest-path](https://github.com/your-username/top-k-shortest-path)
+Project Link: [https://github.com/Asquarer02/Top-K-Shortest-Path-Problem-with-MPI-and-OpenMP](https://github.com/Asquarer02/Top-K-Shortest-Path-Problem-with-MPI-and-OpenMP)
